@@ -1,0 +1,11 @@
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\bin\Debug\netcoreapp2.1\HitungLuas.deps.json
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\bin\Debug\netcoreapp2.1\HitungLuas.runtimeconfig.json
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\bin\Debug\netcoreapp2.1\HitungLuas.runtimeconfig.dev.json
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\bin\Debug\netcoreapp2.1\HitungLuas.dll
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\bin\Debug\netcoreapp2.1\HitungLuas.pdb
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\obj\Debug\netcoreapp2.1\HitungLuas.csprojAssemblyReference.cache
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\obj\Debug\netcoreapp2.1\HitungLuas.csproj.CoreCompileInputs.cache
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\obj\Debug\netcoreapp2.1\HitungLuas.AssemblyInfoInputs.cache
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\obj\Debug\netcoreapp2.1\HitungLuas.AssemblyInfo.cs
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\obj\Debug\netcoreapp2.1\HitungLuas.dll
+C:\Users\Bella Dwi\source\repos\HitungLuas\HitungLuas\obj\Debug\netcoreapp2.1\HitungLuas.pdb
